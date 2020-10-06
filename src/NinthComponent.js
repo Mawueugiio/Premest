@@ -12,7 +12,6 @@ function NinthComponent() {
          <tr><td>tbody</td><td>table body container</td></tr>
          <tr><td>tfoot</td><td>table footer container</td></tr>
        </tbody>
-       <tfoot><tr><td>Element</td><td>Description</td></tr></tfoot>
     </table> 
         </div>
 
