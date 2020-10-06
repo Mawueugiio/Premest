@@ -1,6 +1,7 @@
 # Premest
 For all my premest assignments
 
+<<<<<<< HEAD
 Hello Everyone! Welcome to my PREMEST link.. I am Eugenia Mawuenya Akpo, a student at Ashesi University currently reading computer engineering.
 I am here to interact with things I will otherwise not learn in school. If you share similar concern with me, come have fun with with me.
 
@@ -78,3 +79,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+Hello Everyone! Welcome to my PREMEST link.. I am Eugenia Mawuenya Akpo, a student at Ashesi University currently reading computer engineering. I hope you have fun with me. 
+>>>>>>> ccb4dc9e45370719fe96d86d3f9bcaf71f7ec963
