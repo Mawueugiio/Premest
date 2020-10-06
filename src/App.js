@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import FirstComponent from './FirstComponnent';
 import SecondComponent from './SecondComponent';
+import ThirdComponent from './ThirdComponent';
 import './App.css';
 
 function App() { 
@@ -10,6 +11,7 @@ function App() {
       <p> This is our first custom component</p>
       <FirstComponent/>
       <SecondComponent/>
+      <ThirdComponent/>
     </div>
   );
 }
