@@ -12,18 +12,18 @@ function SecondComponent() {
                 </tr>
                 <tr>
                 <th>Mechanical Engineering</th>
-                <th>34</th>
-                <th>20</th>
+                <td>34</td>
+                <td>20</td>
                 </tr>
                 <tr>
                 <th>Electrical Engineering</th>
-                <th>50</th>
-                <th>35</th>
+                <td>50</td>
+                <td>35</td>
                 </tr>
                 <tr>
                 <th>Computer Engineering</th>
-                <th>35</th>
-                <th>10</th>
+                <td>35</td>
+                <td>10</td>
                 </tr>
             </table> 
         </div> 
